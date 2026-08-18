@@ -1,0 +1,46 @@
+# Local datasets
+*.csv
+*.xls
+*.xlsx
+*.parquet
+data/
+data_local/
+1data_local/
+2data_local/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environment variables and credentials
+.env
+.env.*
+*.key
+
+# Logs and temporary files
+*.log
+*.tmp
+temp/
+tmp/
+
+# Downloaded model files
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Operating system files
+.DS_Store
+Thumbs.db
